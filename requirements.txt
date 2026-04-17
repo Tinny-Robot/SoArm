@@ -1,0 +1,11 @@
+google-genai
+lerobot
+opencv-python
+numpy
+torch
+torchvision
+groundingdino-py
+openni
+Pillow
+ikpy
+sam2
